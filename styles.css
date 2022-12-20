@@ -8,3 +8,26 @@
     --gray: rgb(170, 170, 170);
     --red: rgb(200, 45, 45);
 }
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+svg {
+    width: 20px;
+    height: 20px;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+.main {
+    display: flex;
+}
+
+.dashboard {
+    background-color: var(--color-parts);
+}
