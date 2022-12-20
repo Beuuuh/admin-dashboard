@@ -20,8 +20,13 @@ svg {
 }
 
 img {
-    width: 80px;
-    height: 80px;
+    width: 55px;
+    height: 55px;
+    border-radius: 50px;
+}
+
+p, h2, h3, h4 {
+    font-family: var(--default-font);
 }
 
 .main {
@@ -30,4 +35,11 @@ img {
 
 .dashboard {
     background-color: var(--color-parts);
+    width: 400px;
+    height: auto;
+}
+
+.choices {
+    display: flex;
+    gap: 10px;
 }
