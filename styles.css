@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+:root {
+    --default-font: "kanit", sans-serif;
+    --color-parts: #033B3D;
+    --white: #FFFFFF;
+    --black: rgb(45, 45, 45);
+    --gray: rgb(170, 170, 170);
+    --red: rgb(200, 45, 45);
+}
