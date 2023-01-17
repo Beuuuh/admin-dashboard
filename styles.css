@@ -62,6 +62,7 @@ p, h2, h3, h4 {
 }
 
 .search {
+    margin-top: 15px;
     display: flex;
     align-items: center;
 }
@@ -77,9 +78,17 @@ p, h2, h3, h4 {
     margin-left: auto;
 }
 
+.profileoptions {
+    margin-left: 15px;
+}
+
 .container3 {
     display: flex;
     margin-top: 30px;
+}
+
+.grid {
+    margin-left: 15px;
 }
 
 .container4 {
@@ -98,4 +107,17 @@ p, h2, h3, h4 {
 
 .trendingtitle {
     font-size: 20px;
+}
+
+.name {
+    display: flex;
+    gap: 5px;
+}
+
+.number {
+    text-align: center;
+    color: var(--white);
+    width: 20px;
+    background-color: var(--color-parts);
+    border-radius: 50px;
 }
