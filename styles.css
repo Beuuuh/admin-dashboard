@@ -79,4 +79,23 @@ p, h2, h3, h4 {
 
 .container3 {
     display: flex;
+    margin-top: 30px;
+}
+
+.container4 {
+    margin-left: 40px;
+}
+
+.announcetitle {
+    font-size: 25px;
+}
+
+.topics {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.trendingtitle {
+    font-size: 20px;
 }
